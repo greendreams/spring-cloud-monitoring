@@ -1,1 +1,0 @@
-INDEX VERSION 1.131+/Users/sanjay/google_projects/springframework/spring-cloud-ws/spring-cloud-monitoring/.metadata/.plugins/org.eclipse.jdt.core
